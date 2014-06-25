@@ -1,0 +1,10 @@
+Updated the connection file
+Execute query statements to create  database VWLP
+Execute query statements  to create all tables
+Include php success and failure statements for all queries
+Table Modification
+Added user_login table
+Include user_login_id foreign key to user TABLE
+Changed field type of ID in user TABLE from varchar(10) to INT(10) with AUTO_INCREMENT
+
+

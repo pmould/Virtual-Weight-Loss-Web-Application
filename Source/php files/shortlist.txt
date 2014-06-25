@@ -1,0 +1,14 @@
+1. MySQL database
+2. Connection between database and EasyPHP server 127.0.0.1/VWLP
+3. Create admin login
+4. Create user login
+5. Create workout log page
+6. Submit workout data to MySQL database
+	a. Select proper table
+7. Print data on page
+8. Send message to user
+
+Site Specifics
+Home page
+Log in / register link and page
+Work out log page
